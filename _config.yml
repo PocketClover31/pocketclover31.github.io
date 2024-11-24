@@ -37,6 +37,7 @@ plugins:
 # Custom.
 minimal_mistakes_skin: "dirt"
 locale: "en-US"
+logo: "/assets/images/feather.png"
 
 include: ["_pages"]
 
