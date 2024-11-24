@@ -1,0 +1,17 @@
+main:
+  - title: "About"
+    description: "About"
+    url: /about
+  - title: "Articles"
+    description: "Articles"
+    url: /articles
+  - title: "Books"
+    description: "Books"
+    url: /books
+  - title: "Contact"
+    description: "Contact"
+    url: /contact
+  - title: "Interviews"
+    description: "Interviews"
+    url: /interviews
+
