@@ -8,10 +8,10 @@ main:
   - title: "Books"
     description: "Books"
     url: /books
-  - title: "Contact"
-    description: "Contact"
-    url: /contact
   - title: "Interviews"
     description: "Interviews"
     url: /interviews
+  - title: "Contact"
+    description: "Contact"
+    url: /contact
 
