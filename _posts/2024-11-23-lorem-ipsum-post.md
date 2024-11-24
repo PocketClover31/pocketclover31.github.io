@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:  "Lorem Ipsum Dolor..."
 date:   2024-11-23 17:01:52 -0500
 categories: jekyll update
+classes: wide
 ---
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
