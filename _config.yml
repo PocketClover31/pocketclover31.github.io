@@ -41,7 +41,10 @@ logo: "/assets/images/feather_and_quill.png"
 
 include: ["_pages"]
 
-author: "Molly Given"
+# Site author.
+author: 
+    avatar: "/assets/images/default_avatar.png"
+    name: "Molly Given"
     bio: "Lorem Ipsum Dolor..."
     location: "Philadelphia, PA"
 
