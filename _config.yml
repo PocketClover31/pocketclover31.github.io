@@ -41,6 +41,10 @@ logo: "/assets/images/feather_and_quill.png"
 
 include: ["_pages"]
 
+author: "Molly Given"
+bio: "Lorem Ipsum Dolor..."
+location: "Philadelphia, PA"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
