@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Regina Hall on the hilarity and strength of her character in ‘Honk for Jesus’"
-date:   2022-08-22
+date:   2022-08-28
 categories: jekyll update
 classes: wide
 ---
