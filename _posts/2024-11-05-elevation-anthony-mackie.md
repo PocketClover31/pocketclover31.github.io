@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "‘Elevation’ : Anthony Mackie talks immersive experience filming new action-thriller"
+title:  "‘Elevation’: Anthony Mackie talks immersive experience filming new action-thriller"
 date:   2024-11-05
 categories: jekyll update
 classes: wide
