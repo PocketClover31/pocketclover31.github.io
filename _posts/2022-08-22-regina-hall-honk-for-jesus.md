@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Lorem Ipsum Dolor..."
-date:   2024-11-23 17:01:52 -0500
+title:  "Regina Hall on the hilarity and strength of her character in ‘Honk for Jesus’"
+date:   2022-08-22
 categories: jekyll update
 classes: wide
 ---
@@ -15,3 +15,4 @@ Venenatis platea himenaeos cras, facilisi eu sit. Parturient ultricies vitae iac
 Lobortis arcu maecenas integer; enim fermentum ad maximus. Elit ligula iaculis nostra mauris congue quisque vulputate. Fames elit at facilisi eros tortor. Facilisi felis erat amet ultricies netus leo. Quam habitant rutrum maximus lacinia euismod mollis congue. Duis vestibulum luctus sodales sem nunc nibh iaculis. Iaculis dignissim et elementum cursus fringilla ullamcorper fermentum. Penatibus blandit vitae netus nulla penatibus eros molestie cursus eleifend. Efficitur ad etiam scelerisque cras rhoncus eros morbi.
 
 Habitasse id cursus aliquam, rutrum ridiculus condimentum cras. Accumsan morbi dapibus id habitasse; ultricies quam quisque urna. Bibendum primis orci commodo, curabitur ridiculus donec. Pellentesque commodo porta maecenas efficitur gravida. Pharetra penatibus penatibus, diam tellus turpis feugiat felis. Finibus libero mus magnis penatibus finibus viverra bibendum. Imperdiet lectus ex fringilla at class dis etiam mus. Fusce blandit mi, blandit cubilia aptent gravida? Quisque erat lobortis habitasse felis curabitur eu quam. Malesuada tellus id aptent neque penatibus per mollis conubia sodales.
+
