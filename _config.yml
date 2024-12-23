@@ -48,13 +48,13 @@ author:
     bio: "Lorem Ipsum Dolor..."
     location: "Philadelphia, PA"
     links:
-        - label: "YouTube"
+        - label: "@GivenFacts11"
           icon: "fa-brands fa-youtube"
           url: "https://www.youtube.com/channel/UCoUnws5DNZpHnvAfKE4OFtg"
-        - label: "X"
+        - label: "@ItsaGiven11"
           icon: "fa-brands fa-x-twitter"
           url: "https://x.com/ItsaGiven11"
-        - label: "Instagram"
+        - label: "@mollygiven"
           icon: "fa-brands fa-instagram"
           url: "https://www.instagram.com/mollygiven/?hl=en"
 
