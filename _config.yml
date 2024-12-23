@@ -43,7 +43,7 @@ include: ["_pages"]
 
 # Site author.
 author: 
-    avatar: "/assets/images/avatar.png"
+    avatar: "/assets/images/avatar.jpg"
     name: "Molly Given"
     bio: "Lorem Ipsum Dolor..."
     location: "Philadelphia, PA"
