@@ -1,9 +1,11 @@
 ---
 layout: single
-title:  "Alexandra Daddario delves into the mind of Anne Rice for ‘Mayfair Witches’"
+title:  "Alexandra Daddario delves into the mind of Anne Rice for 'Mayfair Witches'"
 date:   2023-01-04
-categories: jekyll update
+categories: interviews
 classes: wide
+header:
+  teaser: "/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg"
 ---
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
@@ -15,4 +17,3 @@ Venenatis platea himenaeos cras, facilisi eu sit. Parturient ultricies vitae iac
 Lobortis arcu maecenas integer; enim fermentum ad maximus. Elit ligula iaculis nostra mauris congue quisque vulputate. Fames elit at facilisi eros tortor. Facilisi felis erat amet ultricies netus leo. Quam habitant rutrum maximus lacinia euismod mollis congue. Duis vestibulum luctus sodales sem nunc nibh iaculis. Iaculis dignissim et elementum cursus fringilla ullamcorper fermentum. Penatibus blandit vitae netus nulla penatibus eros molestie cursus eleifend. Efficitur ad etiam scelerisque cras rhoncus eros morbi.
 
 Habitasse id cursus aliquam, rutrum ridiculus condimentum cras. Accumsan morbi dapibus id habitasse; ultricies quam quisque urna. Bibendum primis orci commodo, curabitur ridiculus donec. Pellentesque commodo porta maecenas efficitur gravida. Pharetra penatibus penatibus, diam tellus turpis feugiat felis. Finibus libero mus magnis penatibus finibus viverra bibendum. Imperdiet lectus ex fringilla at class dis etiam mus. Fusce blandit mi, blandit cubilia aptent gravida? Quisque erat lobortis habitasse felis curabitur eu quam. Malesuada tellus id aptent neque penatibus per mollis conubia sodales.
-

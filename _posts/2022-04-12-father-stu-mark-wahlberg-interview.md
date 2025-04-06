@@ -2,8 +2,10 @@
 layout: single
 title:  "How Father Stu and his faith inspired Mark Wahlberg"
 date:   2022-04-12
-categories: jekyll update
+categories: interviews
 classes: wide
+header:
+  teaser: "/assets/images/thumbnails/2022-04-12-father-stu-mark-wahlberg-interview.jpg"
 ---
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
