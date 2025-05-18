@@ -8,6 +8,9 @@ header:
   teaser: "/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg"
 ---
 
+![Anthony Mackie in Elevation](/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg)
+<div style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</div>
+
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
 
 Suscipit class fusce neque scelerisque elementum sociosqu litora laoreet. Nec curae nisi vitae risus justo. Himenaeos eget tempus efficitur morbi, fermentum id ligula dui. Duis dapibus lorem ultrices congue suscipit fringilla cursus. Sem porta natoque fringilla senectus fusce elit, cubilia habitasse. Non lectus integer scelerisque turpis feugiat aliquam. Molestie rutrum tempor penatibus dui ipsum.
