@@ -8,8 +8,10 @@ header:
   teaser: "/assets/images/thumbnails/2022-11-11-creator-and-stars-of-the-english-interview.jpg"
 ---
 
-![The English Interview](/assets/images/thumbnails/2022-11-11-creator-and-stars-of-the-english-interview.jpg)
-<div style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</div>
+<p align="center">
+  <img src="/assets/images/thumbnails/2022-11-11-creator-and-stars-of-the-english-interview.jpg" alt="The English Interview" style="max-width: 100%; height: auto;">
+</p>
+<p align="center" style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</p>
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
 

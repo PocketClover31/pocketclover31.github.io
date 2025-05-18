@@ -8,8 +8,10 @@ header:
   teaser: "/assets/images/thumbnails/2022-04-10-roar-alison-brie-apple-tv-antholohy-series.jpg"
 ---
 
-![Alison Brie in Roar](/assets/images/thumbnails/2022-04-10-roar-alison-brie-apple-tv-antholohy-series.jpg)
-<div style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</div>
+<p align="center">
+  <img src="/assets/images/thumbnails/2022-04-10-roar-alison-brie-apple-tv-antholohy-series.jpg" alt="Alison Brie in Roar" style="max-width: 100%; height: auto;">
+</p>
+<p align="center" style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</p>
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
 
