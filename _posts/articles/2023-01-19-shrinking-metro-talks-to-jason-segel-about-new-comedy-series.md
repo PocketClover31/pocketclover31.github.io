@@ -4,12 +4,12 @@ title:  "Shrinking: Jason Segel talks heart and soul of new comedy series"
 date:   2023-01-19
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2023-01-19-shrinking-metro-talks-to-jason-segel-about-new-comedy-series.jpg"
+  teaser: "/assets/images/articles/2023-01-19-shrinking-metro-talks-to-jason-segel-about-new-comedy-series.jpg"
 ---
 
 If you’ve ever watched Jason Segel on screen — and if you’re a comedy-lover, chances are you have — you know just how no-holds-barred his style of acting is. Though as we found out during a round-table interview with the actor, that’s not just for his characters, it’s the way he lives his life as well.
 
-![Jason Segel in Shrinking](/assets/images/thumbnails/2023-01-19-shrinking-metro-talks-to-jason-segel-about-new-comedy-series.jpg)
+![Jason Segel in Shrinking](/assets/images/articles/2023-01-19-shrinking-metro-talks-to-jason-segel-about-new-comedy-series.jpg)
 **Jason Segel and Harrison Ford in “Shrinking,” premiering January 27, 2023 on Apple TV+** _Apple TV+_
 
 “I’ve never worn life lightly,” the creative said while answering questions for his latest endeavor, “Shrinking,” which premieres on Apple TV+ Jan. 27. 

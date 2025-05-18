@@ -4,12 +4,12 @@ title:  "Alexandra Daddario delves into the mind of Anne Rice for 'Mayfair Witch
 date:   2023-01-04
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg"
+  teaser: "/assets/images/articles/2023-01-04-alexandra-daddario-mayfair-witches.jpg"
 ---
 
 Author Anne Rice has a huge following for both her books, and their adaptations—the latest of which comes again from AMC, who recently delved into the New Orleans based writer’s works with the revamp of ‘Interview with the Vampire.’
 
-![Alexandra Daddario in Mayfair Witches](/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg)
+![Alexandra Daddario in Mayfair Witches](/assets/images/articles/2023-01-04-alexandra-daddario-mayfair-witches.jpg)
 **Alexandra Daddario plays Dr. Rowan Fielding in ‘Anne Rice’s Mayfair Witches’** _Alfonso Bresciani / AMC_
 
 Starring Alexandra Daddario (‘White Lotus’) along with Harry Hamlin, Jack Huston, Tongayi Chirisa and a talented cast, ‘Anne Rice’s Mayfair Witches’ is based on a trilogy of novels by Rice as part of AMC’s ongoing project of building the author’s creative universe.

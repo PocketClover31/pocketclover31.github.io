@@ -4,12 +4,12 @@ title:  "'Elevation': Anthony Mackie talks immersive experience filming new acti
 date:   2024-11-05
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg"
+  teaser: "/assets/images/articles/2024-11-05-elevation-anthony-mackie.jpg"
 ---
 
 Anthony Mackie tackles an unforgiving post-apocalyptic world in director George Nolfi’s latest action-thriller, ‘Elevation.’ Set in the Rocky Mountains, Will (Mackie) and his son Hunter (Danny Boyd Jr.) are living in an outpost as a haven from some sort of species that invaded the planet years prior. For some reason, the beings can’t travel above 8,000 feet, so those who survive live high above that cut-off line as a way to stay safe.
 
-![Anthony Mackie in Elevation](/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg)
+![Anthony Mackie in Elevation](/assets/images/articles/2024-11-05-elevation-anthony-mackie.jpg)
 _Courtesy of Vertical_
 
 Circumstances surrounding Hunter’s health prompts Will and two others from the outpost (Nina, played by Morena Baccarin and Katie, played by Maddie Hasson) to venture below the border to save his life. To chat more about his experience on set, his character’s journey and what stunts were the most fun (and challenging) to perform, Mackie sat down to discuss all things ‘Elevation.’

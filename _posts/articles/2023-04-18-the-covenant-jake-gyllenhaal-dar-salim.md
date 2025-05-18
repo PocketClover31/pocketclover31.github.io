@@ -4,12 +4,12 @@ title:  "'The Covenant': Jake Gyllenhaal and Dar Salim explain why this action f
 date:   2023-04-18
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg"
+  teaser: "/assets/images/articles/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg"
 ---
 
 With any agreement or promise, there has to be a follow-through, and sometimes it works out…sometimes it doesn’t. In Guy Ritchie’s latest feature ‘The Covenant,’ however the stakes to uphold the bond and pledge made by two men isn’t just the vehicle for an incredible story of brotherhood, it’s also a peek into what drives someone into showing bravery and mortality even when the stakes are high.
 
-![Jake Gyllenhaal and Dar Salim in The Covenant](/assets/images/thumbnails/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg)
+![Jake Gyllenhaal and Dar Salim in The Covenant](/assets/images/articles/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg)
 **Dar Salim (left) as Ahmed and Jake Gyllenhaal (right) as Sgt. John Kinley in ‘The Covenant’** _Christopher Raphael / Metro Goldwyn Mayer Pictures © 2023 Metro-Goldwyn-Mayer Pictures Inc._
 
 The film, which takes place in March of 2018 in Taliban-occupied Afghanistan, follows US Army Sergeant John Kinley (Jake Gyllenhaal) and his Afghan interpreter Ahmed (Dar Salim). At the beginning of the feature, we see Kinley leading up a specialist unit tasked with finding Taliban munitions and explosive storage sites, and through different circumstances, Kinley has to find a new interpreter and that’s what ultimately leads him to Ahmed.

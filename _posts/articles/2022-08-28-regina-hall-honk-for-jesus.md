@@ -4,12 +4,12 @@ title:  "Regina Hall on the hilarity and strength of her character in 'Honk for 
 date:   2022-08-28
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2022-08-28-regina-hall-honk-for-jesus.jpg"
+  teaser: "/assets/images/articles/2022-08-28-regina-hall-honk-for-jesus.jpg"
 ---
 
 A megachurch scandal is something you might hear about, but the comebacks often aren’t.
 
-![Regina Hall Honk for Jesus](/assets/images/thumbnails/2022-08-28-regina-hall-honk-for-jesus.jpg)
+![Regina Hall Honk for Jesus](/assets/images/articles/2022-08-28-regina-hall-honk-for-jesus.jpg)
 **Regina Hall stars as Trinitie Childs in ‘Honk for Jesus. Save Your Soul’** _Steve Swisher / 2021 Pinky Promise LLC_
 
 In fact, they’re mainly unheard of. In ‘Honk For Jesus. Save Your Soul’ — the first feature from the Ebo sisters — Adamma Ebo wrote, produced and directed, and her identical twin sister, Adanne, also worked closely on the film as a producer.

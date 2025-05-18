@@ -4,12 +4,12 @@ title:  "Kevin Costner did a Western his own way with 'Horizon'"
 date:   2024-06-26
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2024-06-26-kevin-costner-horizon.jpg"
+  teaser: "/assets/images/articles/2024-06-26-kevin-costner-horizon.jpg"
 ---
 
 Kevin Costner has been looking to make ‘Horizon: An American Saga‘ for over 20 years, but back in 2003, it was pitched as just one film—that no one wanted to make.
 
-![Kevin Costner in Horizon](/assets/images/thumbnails/2024-06-26-kevin-costner-horizon.jpg)
+![Kevin Costner in Horizon](/assets/images/articles/2024-06-26-kevin-costner-horizon.jpg)
 **Kevin Costner plays Hayes Ellison in ‘Horizon’** _Courtesy of Warner Bros. Pictures_
 
 “I thought it was really good and well, they just weren’t that interested in it… And I thought, well good, I’m going to make four more,” Costner recalls. “I got a little stubborn, got a little bit pissy with everything and said, ‘You know what? I’m going to make this Western different.”

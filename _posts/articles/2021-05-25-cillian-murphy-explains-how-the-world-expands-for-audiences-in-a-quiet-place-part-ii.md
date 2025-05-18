@@ -4,12 +4,12 @@ title:  "Cillian Murphy explains how the world expands for audiences in 'A Quiet
 date:   2021-05-25
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2021-05-25-cillian-murphy-explains-how-the-world-expands-for-audiences-in-a-quiet-place-part-ii.jpg"
+  teaser: "/assets/images/articles/2021-05-25-cillian-murphy-explains-how-the-world-expands-for-audiences-in-a-quiet-place-part-ii.jpg"
 ---
 
 It’s safe to say that anticipations have been high for the second installment of John Krasinski’s horror film series surrounding one family trying to survive in a world where monsters roam and hunt through sound. ‘A Quiet Place’ premiered with rave reviews and huge numbers at the box office in 2018, and its predecessor is on the road to the same success—and for good reason.
 
-![Cillian Murphy in A Quiet Place Part II](/assets/images/thumbnails/2021-05-25-cillian-murphy-explains-how-the-world-expands-for-audiences-in-a-quiet-place-part-ii.jpg)
+![Cillian Murphy in A Quiet Place Part II](/assets/images/articles/2021-05-25-cillian-murphy-explains-how-the-world-expands-for-audiences-in-a-quiet-place-part-ii.jpg)
 **Regan (Millicent Simmonds) and Emmett (Cillian Murphy) in ‘A Quiet Place Part II.’** _Johnny Cournoyer_
 
 “I just thought it was pure, cinematic experience, you know? I don’t like to go to the cinema when it’s entirely passive viewing… this was the opposite of that. You were engaged in the movie and the experience. Everyone in the cinema was invested in it so much,” says actor Cillian Murphy when referencing his first time seeing Krasinki’s heart-pounding thriller in theaters two years ago.

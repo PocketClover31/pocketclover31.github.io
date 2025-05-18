@@ -8,7 +8,9 @@ classes: wide
 
 <div style="margin-top: 2em;" class="grid__wrapper">
     {% for post in site.posts %}
-        {% include archive-single.html type="grid" %}
+        {% if post.path contains 'articles/' %}
+            {% include archive-single.html type="grid" %}
+        {% endif %}
     {% endfor %}
 </div>
 

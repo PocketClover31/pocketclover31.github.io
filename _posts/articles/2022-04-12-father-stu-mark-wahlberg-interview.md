@@ -4,12 +4,12 @@ title:  "How Father Stu and his faith inspired Mark Wahlberg"
 date:   2022-04-12
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2022-04-12-father-stu-mark-wahlberg-interview.jpg"
+  teaser: "/assets/images/articles/2022-04-12-father-stu-mark-wahlberg-interview.jpg"
 ---
 
 When you really nail down just how tough it is to get a movie made in Hollywood, it all seems a bit daunting. Throw in some religion, and some might say you have the basis for a script to live in limbo. But when Mark Wahlberg heard about Stuart Long, he knew it was a movie he wanted to make and a character he wanted to play.
 
-![Mark Wahlberg in Father Stu](/assets/images/thumbnails/2022-04-12-father-stu-mark-wahlberg-interview.jpg)
+![Mark Wahlberg in Father Stu](/assets/images/articles/2022-04-12-father-stu-mark-wahlberg-interview.jpg)
 **Stuart Long (Mark Wahlberg) in Columbia Pictures’ ‘Father Stu’** _Columbia Pictures_
 
 Some might say he had faith.

@@ -4,12 +4,12 @@ title:  "Creator and stars of 'The English' talk what makes this Western an epic
 date:   2022-11-11
 categories: articles
 header:
-  teaser: "/assets/images/thumbnails/2022-11-11-creator-and-stars-of-the-english-interview.jpg"
+  teaser: "/assets/images/articles/2022-11-11-creator-and-stars-of-the-english-interview.jpg"
 ---
 
 The age of cowboys, fighting for land on a new frontier and the Wild Wild West have intrigued many writers, directors and actors a like. In more recent times, we can assume that most stories of this nature are virtually interpretations of what that time was like—and for Hugo Blick, that meant sweeping landscapes, brutal obstacles and a new viewpoint for the protagonists who drive the story.
 
-![The English Interview](/assets/images/thumbnails/2022-11-11-creator-and-stars-of-the-english-interview.jpg)
+![The English Interview](/assets/images/articles/2022-11-11-creator-and-stars-of-the-english-interview.jpg)
 **Chaske Spencer and Emily Blunt in ‘The English’** _Amazon Prime_
 
 ‘The English’ is officially described as an epic chase Western, and one that takes the core themes of identity and revenge to tell a uniquely compelling parable on race, power, and love.
