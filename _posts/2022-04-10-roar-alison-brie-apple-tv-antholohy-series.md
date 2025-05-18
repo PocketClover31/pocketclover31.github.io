@@ -10,7 +10,7 @@ header:
 In Apple TV+’s latest anthology series, the phrase “I am woman, hear me roar” holds weight when looking at the subject matter, and the themes.
 
 ![Alison Brie in Roar](/assets/images/thumbnails/2022-04-10-roar-alison-brie-apple-tv-antholohy-series.jpg)
-*Alison Brie in Roar,* _Apple TV+_
+**Alison Brie in Roar** _Apple TV+_
 
 ‘Roar’ comes from co-showrunners Carly Mensch and Liz Flahive’s—who also happen to be the team behind Netflix’s hit series ‘Glow’ — and it’s based on a book of short stories by Cecelia Ahern, all dealing with the female experience in the current world.
 
