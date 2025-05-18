@@ -2,7 +2,7 @@
 layout: single
 title:  "How Father Stu and his faith inspired Mark Wahlberg"
 date:   2022-04-12
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2022-04-12-father-stu-mark-wahlberg-interview.jpg"
 ---

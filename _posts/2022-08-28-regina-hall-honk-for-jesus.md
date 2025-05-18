@@ -2,7 +2,7 @@
 layout: single
 title:  "Regina Hall on the hilarity and strength of her character in 'Honk for Jesus'"
 date:   2022-08-28
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2022-08-28-regina-hall-honk-for-jesus.jpg"
 ---

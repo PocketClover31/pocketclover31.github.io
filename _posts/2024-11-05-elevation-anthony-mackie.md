@@ -2,7 +2,7 @@
 layout: single
 title:  "'Elevation': Anthony Mackie talks immersive experience filming new action-thriller"
 date:   2024-11-05
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg"
 ---

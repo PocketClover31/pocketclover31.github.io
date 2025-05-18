@@ -2,7 +2,7 @@
 layout: single
 title:  "Alexandra Daddario delves into the mind of Anne Rice for 'Mayfair Witches'"
 date:   2023-01-04
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg"
 ---

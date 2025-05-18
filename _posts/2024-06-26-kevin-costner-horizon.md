@@ -2,7 +2,7 @@
 layout: single
 title:  "Kevin Costner did a Western his own way with 'Horizon'"
 date:   2024-06-26
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2024-06-26-kevin-costner-horizon.jpg"
 ---

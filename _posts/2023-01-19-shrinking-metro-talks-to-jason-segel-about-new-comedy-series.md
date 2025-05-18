@@ -2,7 +2,7 @@
 layout: single
 title:  "Shrinking: Jason Segel talks heart and soul of new comedy series"
 date:   2023-01-19
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2023-01-19-shrinking-metro-talks-to-jason-segel-about-new-comedy-series.jpg"
 ---

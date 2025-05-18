@@ -2,7 +2,7 @@
 layout: single
 title:  "Alison Brie on 'Roar,' the new darkly comedic feminist fable series"
 date:   2022-04-10
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2022-04-10-roar-alison-brie-apple-tv-antholohy-series.jpg"
 ---

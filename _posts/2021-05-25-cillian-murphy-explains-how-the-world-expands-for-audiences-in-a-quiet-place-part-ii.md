@@ -2,7 +2,7 @@
 layout: single
 title:  "Cillian Murphy explains how the world expands for audiences in 'A Quiet Place Part II'"
 date:   2021-05-25
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2021-05-25-cillian-murphy-explains-how-the-world-expands-for-audiences-in-a-quiet-place-part-ii.jpg"
 ---

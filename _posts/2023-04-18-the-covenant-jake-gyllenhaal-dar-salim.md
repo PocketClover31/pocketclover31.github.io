@@ -2,7 +2,7 @@
 layout: single
 title:  "'The Covenant': Jake Gyllenhaal and Dar Salim explain why this action film feels real"
 date:   2023-04-18
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg"
 ---

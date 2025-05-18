@@ -2,7 +2,7 @@
 layout: single
 title:  "Creator and stars of 'The English' talk what makes this Western an epic in 2022"
 date:   2022-11-11
-categories: interviews
+categories: articles
 header:
   teaser: "/assets/images/thumbnails/2022-11-11-creator-and-stars-of-the-english-interview.jpg"
 ---
