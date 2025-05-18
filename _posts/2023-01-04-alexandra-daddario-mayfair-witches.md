@@ -3,15 +3,12 @@ layout: single
 title:  "Alexandra Daddario delves into the mind of Anne Rice for 'Mayfair Witches'"
 date:   2023-01-04
 categories: interviews
-classes: wide
 header:
   teaser: "/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg"
 ---
 
-<p align="center">
-  <img src="/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg" alt="Alexandra Daddario in Mayfair Witches" style="max-width: 100%; height: auto;">
-</p>
-<p align="center" style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</p>
+![Alexandra Daddario in Mayfair Witches](/assets/images/thumbnails/2023-01-04-alexandra-daddario-mayfair-witches.jpg)
+<div style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</div>
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
 

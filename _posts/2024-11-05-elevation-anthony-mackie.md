@@ -3,15 +3,12 @@ layout: single
 title:  "'Elevation': Anthony Mackie talks immersive experience filming new action-thriller"
 date:   2024-11-05
 categories: interviews
-classes: wide
 header:
   teaser: "/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg"
 ---
 
-<p align="center">
-  <img src="/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg" alt="Anthony Mackie in Elevation" style="max-width: 100%; height: auto;">
-</p>
-<p align="center" style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</p>
+![Anthony Mackie in Elevation](/assets/images/thumbnails/2024-11-05-elevation-anthony-mackie.jpg)
+<div style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</div>
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
 

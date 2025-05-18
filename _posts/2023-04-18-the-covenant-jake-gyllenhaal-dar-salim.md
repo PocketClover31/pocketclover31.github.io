@@ -3,15 +3,12 @@ layout: single
 title:  "'The Covenant': Jake Gyllenhaal and Dar Salim explain why this action film feels real"
 date:   2023-04-18
 categories: interviews
-classes: wide
 header:
   teaser: "/assets/images/thumbnails/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg"
 ---
 
-<p align="center">
-  <img src="/assets/images/thumbnails/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg" alt="Jake Gyllenhaal and Dar Salim in The Covenant" style="max-width: 100%; height: auto;">
-</p>
-<p align="center" style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</p>
+![Jake Gyllenhaal and Dar Salim in The Covenant](/assets/images/thumbnails/2023-04-18-the-covenant-jake-gyllenhaal-dar-salim.jpg)
+<div style="margin-bottom: 2em; font-style: italic; font-size: 0.9em;">Photo: Credit</div>
 
 Lorem ipsum odor amet, consectetuer adipiscing elit. Suscipit id porttitor tempus curabitur tristique. Ligula dictum vehicula hendrerit faucibus eros aliquam. Cras velit senectus laoreet quam augue. Hac luctus varius pharetra, dictumst aliquam condimentum? Ante suscipit cursus quis dictum cursus nam natoque.
 
