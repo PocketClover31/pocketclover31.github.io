@@ -4,8 +4,10 @@ title:  "Vera Farmiga and Cherry Jones of ‘Five Days at Memorial’ discuss wh
 date:   2021-08-20
 categories: interviews
 header:
-  teaser: "/assets/images/interviews/2022-08-24-vera-farmiga-and-cherry-jones-discuss.md"
+  teaser: "/assets/images/interviews/2022-08-24-vera-farmiga-and-cherry-jones-discuss.jpg"
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CbWPvKXDcTw" frameborder="0"> </iframe>
 
 When Hurricane Katrina struck New Orleans in 2005 and devastated the city, there was no lack of heart-wrenching stories. Including at Memorial Medical Center — although what exactly happened there, and the decisions that had to be made by medical personnel during that span, is not widely known.
 
@@ -15,5 +17,4 @@ Throughout the series, different viewpoints — from doctors, to nurses, to pati
 
 Stars Vera Farmiga, who plays cancer surgeon Dr. Anna Pou, and Cherry Jones, who plays incident supervisor Susan Mulderick, were drawn to the story based on their characters, and the strengths they had to show during their time at Memorial. Both actresses sat down to dig a little deeper into “Five Days At Memorial.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CbWPvKXDcTw" frameborder="0"> </iframe>
 

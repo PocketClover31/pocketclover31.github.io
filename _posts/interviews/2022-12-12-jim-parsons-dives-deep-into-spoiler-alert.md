@@ -7,7 +7,7 @@ header:
   teaser: "/assets/images/interviews/2022-12-12-jim-parsons-dives-deep-into-spoiler-alert.jpg"
 ---
 
-Love, loss and welcoming a new outlook on life are themes explored through director Michael Showalter’s new film ‘Spoiler Alert’ starring Jim Parsons, Ben Aldridge, Sally Field and Bill Irwin. Based on Michael Ausiello’s best-selling memoir “Spoiler Alert: The Hero Dies,” the story follows true events that transpired after Ausiello’s partner Kit gets diagnosed with terminal cancer. Playing the role of his friend, Michael Ausiello, Parsons chats more about reading Ausiello’s book, being compelled by the material and seeing the adaptation through to the big screen.
-
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rZAKFrBGlwg&t=40s" frameborder="0"> </iframe>
+
+Love, loss and welcoming a new outlook on life are themes explored through director Michael Showalter’s new film ‘Spoiler Alert’ starring Jim Parsons, Ben Aldridge, Sally Field and Bill Irwin. Based on Michael Ausiello’s best-selling memoir “Spoiler Alert: The Hero Dies,” the story follows true events that transpired after Ausiello’s partner Kit gets diagnosed with terminal cancer. Playing the role of his friend, Michael Ausiello, Parsons chats more about reading Ausiello’s book, being compelled by the material and seeing the adaptation through to the big screen.
 
