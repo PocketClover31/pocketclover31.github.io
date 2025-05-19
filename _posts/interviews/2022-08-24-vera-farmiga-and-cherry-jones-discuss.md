@@ -7,9 +7,9 @@ header:
   teaser: "/assets/images/interviews/2022-08-24-vera-farmiga-and-cherry-jones-discuss.jpg"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbWPvKXDcTw?si=s50_xH7_vzrOca3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 When Hurricane Katrina struck New Orleans in 2005 and devastated the city, there was no lack of heart-wrenching stories. Including at Memorial Medical Center — although what exactly happened there, and the decisions that had to be made by medical personnel during that span, is not widely known.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbWPvKXDcTw?si=s50_xH7_vzrOca3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Journalist Sheri Fink set out to figure out what happened at Memorial in late August and early September of 2005 when dozens of bodies were found under unknown circumstances after flooding had subsided. And through her discoveries she wrote the book, “Five Days At Memorial.” Now, the stories of the desperation the hospital felt when the hurricane hit is unfolding on screen on Apple TV+.
 
