@@ -7,7 +7,7 @@ header:
   teaser: "/assets/images/interviews/2022-08-24-vera-farmiga-and-cherry-jones-discuss.jpg"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CbWPvKXDcTw" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbWPvKXDcTw?si=s50_xH7_vzrOca3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 When Hurricane Katrina struck New Orleans in 2005 and devastated the city, there was no lack of heart-wrenching stories. Including at Memorial Medical Center — although what exactly happened there, and the decisions that had to be made by medical personnel during that span, is not widely known.
 

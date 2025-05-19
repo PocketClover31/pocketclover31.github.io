@@ -7,7 +7,7 @@ header:
   teaser: "/assets/images/interviews/2023-01-25-rian-johnson-on-why-he-switched-up-his-mystery-writing-format.jpg"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=107trqGjvJs&t=19s" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V9AjClvlyMc?si=1A-SgpbIltqDIRrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Rian Johnson is known for crafting intricate puzzles for some of his work including the ‘Knives Out’ franchise of films. But with this latest venture into the world of mystery, ‘Poker Face,’ the format for this new Peacock show starring Natasha Lyonne leaves the question of “Who’s the killer?” at the door and instead turns to ask “How did you catch them?”
 
