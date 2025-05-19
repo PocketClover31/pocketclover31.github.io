@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Poker Face: Rian Johnson On Why He Switched Up His Mystery Writing Format"
-date:   2021-08-20
+date:   2023-01-25
 categories: interviews
 header:
   teaser: "/assets/images/interviews/2023-01-25-rian-johnson-on-why-he-switched-up-his-mystery-writing-format.jpg"

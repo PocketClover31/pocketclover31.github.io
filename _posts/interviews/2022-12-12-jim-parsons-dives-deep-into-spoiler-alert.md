@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Jim Parsons dives deep into 'Spoiler Alert' and his personal connection to the story and character."
-date:   2021-08-20
+date:   2022-12-12
 categories: interviews
 header:
   teaser: "/assets/images/interviews/2022-12-12-jim-parsons-dives-deep-into-spoiler-alert.jpg"

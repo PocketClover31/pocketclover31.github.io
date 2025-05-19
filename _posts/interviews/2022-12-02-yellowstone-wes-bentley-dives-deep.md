@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Yellowstone: Wes Bentley dives deep into the challenges of playing Jamie Dutton and Season 5"
-date:   2021-08-20
+date:   2022-12-02
 categories: interviews
 header:
   teaser: "/assets/images/interviews/2022-12-02-yellowstone-wes-bentley-dives-deep.jpg"

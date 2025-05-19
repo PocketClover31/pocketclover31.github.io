@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Tye Sheridan talks 'Asphalt City' and what makes this film so hypereal"
-date:   2021-08-20
+date:   2024-04-04
 categories: interviews
 header:
   teaser: "/assets/images/interviews/2024-04-04-tye-sheridan-talks-asphalt-city.jpg"
